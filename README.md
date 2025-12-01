@@ -1,8 +1,8 @@
 ### Hi, I'm Pongpang!
 Computer Science × Cognitive Science Student @ [University of Toronto of Toronto](https://web.cs.toronto.edu/) | Builder of human-centered, impactful technology
 
-Current Interest:
-⛅️ Cloud systems & database management in software engineering
-👁️ Convolutional neural networks and their alignment with human scene perception
+Current Interest: <br />
+⛅️ Cloud systems & database management in software engineering <br />
+👁️ Convolutional neural networks and their alignment with human scene perception <br />
 
-[![Pongpang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Napwillcode8848)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Napwillcode8848&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
