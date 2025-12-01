@@ -1,5 +1,5 @@
 ### Hi, I'm Pongpang!
-Computer Science × Cognitive Science Student @ [Univeristy of Toronto](https://web.cs.toronto.edu/) | Builder of human-centered, impactful technology
+Computer Science × Cognitive Science Student @ [University of Toronto of Toronto](https://web.cs.toronto.edu/) | Builder of human-centered, impactful technology
 
 Current Interest:
 ⛅️ Cloud systems & database management in software engineering
