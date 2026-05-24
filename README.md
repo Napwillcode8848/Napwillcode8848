@@ -13,7 +13,7 @@
 
 **Computer Science** @ [University of Toronto](https://web.cs.toronto.edu/)  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6BD6&center=true&vCenter=true&width=500&lines=CS+%C3%97+CogSci+Student+%F0%9F%A7%A0;Cloud+Systems+%26+Database+Enthusiast+%E2%9B%85;CV+%2B+Human+Perception+Researcher+%F0%9F%91%81%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=CS+%C3%97+CogSci+Student+%F0%9F%A7%A0;Cloud+Systems+%26+Database+Enthusiast+%E2%9B%85;CV+%2B+Human+Perception+Researcher+%F0%9F%91%81%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -41,11 +41,11 @@ pongpang = {
 
 <div align="center">
 
-![Pongpang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Pongpang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=napwillcode8848&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=napwillcode8848&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=napwillcode8848&theme=tokyonight&hide_border=true)
 
 </div>
 
